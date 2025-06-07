@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luca Nivchiscy</h1>
 <h3 align="center">I'm a student of Information Technology Management with a growing interest in Artificial Intelligence. I'm currently learning Python and exploring basic AI concepts through small projects.</h3>
 
-- 🌱 I’m currently learning **I'm currently learning Python, relational databases (SQL), object-oriented programming (OOP), and software development fundamentals.**
+- 🌱 I’m currently learning **Python, relational databases (SQL), object-oriented programming (OOP), and software development fundamentals.**
 
 - 📫 How to reach me **lucanivchiscy5@gmail.com**
 
