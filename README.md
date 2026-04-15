@@ -1,14 +1,12 @@
-<h1 align="center">Hi 👋, I'm Luca Nivchiscy</h1>
-<h3 align="center">I'm a student of Information Technology Management with a growing interest in Artificial Intelligence. I'm currently learning Python and exploring basic AI concepts through small projects.</h3>
+### Hi there, I'm Luca 👋
 
-- 🌱 I’m currently learning **Python, relational databases (SQL), object-oriented programming (OOP), and software development fundamentals.**
+I'm an IT Management student based in Argentina with a genuine passion for the logic that runs behind the scenes. 
 
-- 📫 How to reach me **lucanivchiscy5@gmail.com**
+While I love diving deep into backend development and database modeling, my curiosity goes beyond a single language or framework. I enjoy the challenge of understanding the bigger picture of technology—how systems are designed, how they scale, and how they solve real-world problems. 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/lucanivchiscy40536/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luca nivchiscy" height="30" width="40" /></a>
-</p>
+**What I'm about:**
+* 🛠️ **Building & Tinkering:** Whether it's structuring a solid database or figuring out the best logic for a backend system, I enjoy the process of making things work efficiently.
+* 📚 **Always Learning:** Technology moves fast, and I'm always eager to pick up new tools, frameworks, and concepts to add to my stack.
+* 🌍 **Looking Ahead:** My goal is to keep growing as a developer and eventually take my skills to high-demand tech environments around the world.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+I'm always open to talking about tech, collaborating, or just sharing ideas. Feel free to check out my repositories!
